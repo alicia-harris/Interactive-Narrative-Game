@@ -24,9 +24,9 @@ the story through interactive choices.
 
 ## Screenshots
 
-![Title screen](screenshots/title-screen.png)
+![Title screen]((https://drive.google.com/file/d/1GLINrxuyWXh7oaJxasJ1EVCspUUcMQdU/view?usp=drive_link))
 
-![Gameplay](screenshots/dialogue.png)
+![Graphics]((https://drive.google.com/file/d/1IF5GPu8RcXr2dVnC57I3o8nhu6jETSEv/view?usp=drive_link))
 
 ## What I learned
 
